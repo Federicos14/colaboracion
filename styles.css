@@ -1,0 +1,12 @@
+body {
+    margin-top: 70px;
+    background-color: lightgray;
+    color: black;
+    filter: drop-shadow(15px 15px 12px black);
+    text-align: center;
+}
+
+.img{
+    justify-content: center;
+    align-items: center;
+}
